@@ -1,0 +1,5 @@
+streamlit==1.10.0
+together==0.1.5
+python-dotenv==0.19.2
+pygithub==1.55
+pygments==2.10.0
